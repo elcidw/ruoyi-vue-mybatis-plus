@@ -59,7 +59,6 @@ public class JsonUtil {
   public static Map toMap(String json) {
     return toBean(json, Map.class);
   }
-
   public static Map toMap(byte[] bytes) {
     return toBean(bytes, Map.class);
   }

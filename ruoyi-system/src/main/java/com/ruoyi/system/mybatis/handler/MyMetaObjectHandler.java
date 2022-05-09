@@ -13,7 +13,7 @@ import java.sql.Timestamp;
  * @author Nottyjay
  * @date 2020-10-10
  */
-@Slf4j
+// @Slf4j
 @Component
 public class MyMetaObjectHandler implements MetaObjectHandler {
 
